@@ -1,0 +1,31 @@
+{
+  "name": "passport-omega",
+  "version": "0.0.1",
+  "description": "Omega authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "Robert Lynch",
+    "email": "robertlynch2012@gmail.com",
+    "url": "http://robertlyn.ch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TexasLAN/passport-omega.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TexasLAN/passport-omega/issues"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
